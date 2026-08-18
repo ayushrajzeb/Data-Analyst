@@ -1,180 +1,170 @@
-Ayush Raj
+# Ayush Raj — Resume
 
-B.Tech Computer Science & Engineering | Operations & Process Associate | Data Analytics
+## 👨‍💻 Professional Profile
 
-<p align="left">
-  <a href="mailto:ayushrajzeb@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
-</p>
+Detail-oriented **B.Tech Computer Science & Engineering graduate** with strong analytical, problem-solving, documentation, and Microsoft Excel skills.
 
-👋 About Me
+Experienced in working with **Excel functions, data validation, reporting, process handling, and data analysis**. Strong written and verbal communication skills with an interest in **Operations, Process Associate, Data Analysis, and business-support roles**.
 
-I am a B.Tech Computer Science & Engineering graduate with a strong foundation in analytical thinking, problem-solving, documentation, data handling, and Microsoft Excel.
+---
 
-I am particularly interested in Operations, Process Management, Data Analysis, and Business Operations roles where I can combine technical knowledge with attention to detail, communication, and structured problem-solving.
+## 🎓 Education
 
-🎓 B.Tech in Computer Science & Engineering — Vivekananda Global University, Jaipur
+**B.Tech — Computer Science & Engineering**
+**Vivekananda Global University, Jaipur**
+**2022 – 2026**
 
-📊 Interested in Operations, Process Associate, Reporting, and Data Analytics roles
+* CGPA: **7.5 / 10**
+* Relevant Coursework:
 
-📈 Experienced with Excel, Power BI, SQL, Python, and data documentation
+  * Object-Oriented Programming
+  * Databases
+  * Data Structures & Algorithms
+  * Operating Systems
+  * Computer Networks
+  * Machine Learning
+  * Data Mining
+  * Image Processing
+  * Mathematics
 
-🤝 Strong written and verbal communication
+---
 
-⚡ Immediate joiner
+## 🛠️ Technical Skills
 
-🌙 Comfortable working rotational/night shifts
+### Microsoft Excel
 
-🛠️ Skills
+* VLOOKUP
+* Pivot Tables
+* IF
+* SUMIF
+* Data Validation
+* Data Documentation
 
-Data & Analytics
+### Data & Analytics
 
-Microsoft Excel
+* Data Analysis
+* Power BI
+* SQL — Basic
+* Python — Basic
+* Google Sheets
 
-VLOOKUP, Pivot Tables, IF, SUMIF
+### Office & Productivity
 
-Power BI
+* Microsoft Office
+* Documentation
+* Reporting
+* Data Handling
 
-Data Analysis
+---
 
-Data Validation
+## 💡 Soft Skills
 
-Reporting & Documentation
+* Analytical Thinking
+* Problem Solving
+* Attention to Detail
+* Written Communication
+* Verbal Communication
+* Teamwork
+* Adaptability
+* Time Management
 
-Programming & Databases
+---
 
-SQL — Basic
+## 🚀 Projects
 
-Python — Basic
+### 1. AI Conversational Chatbot — IBM Watson Assistant
 
-Databases
+Developed a conversational chatbot using **IBM Watson Assistant** to recommend books based on user preferences such as:
 
-Object-Oriented Programming
+* Genre
+* Author
+* Mood
+* Reading interests
 
-Professional Skills
+The chatbot captures user preferences through natural conversation and provides personalized book recommendations.
 
-Analytical Thinking
+The solution can be integrated into **websites or mobile applications** for libraries, bookshops, and reading communities.
 
-Problem Solving
+---
 
-Attention to Detail
+### 2. Customer Purchase Behavior Analysis
 
-Written & Verbal Communication
+Performed data analysis on **10,000+ customer records** to understand purchasing behavior and identify customer trends and segments.
 
-Teamwork
+**Key Contributions:**
 
-Adaptability
+* Analyzed customer purchasing patterns.
+* Identified trends and customer segments.
+* Built an interactive **Power BI dashboard**.
+* Created visualizations to support data-driven decision-making.
+* Improved reporting efficiency by **25%** through better dashboard design.
 
-Time Management
+---
 
-🚀 Projects
+## 📜 Certifications
 
-📚 AI Conversational Chatbot — IBM Watson Assistant
+* **PBEL Equivalent to Virtual Internship — AI**
 
-A conversational book recommendation chatbot designed using IBM Watson Assistant.
+  * IBM
 
-What it does:
+* **Data Visualization**
 
-Understands user preferences through conversation
+  * Coursera — University of Illinois
 
-Considers factors such as genre, author, and mood
+* **Introduction to Data Analytics**
 
-Provides personalized book recommendations
+  * Coursera
 
-Can be integrated into websites or mobile applications
+* **Data Visualization and Dashboards with Excel and Cognos**
 
-Designed for use cases such as libraries, bookshops, and reading communities
+  * Coursera
 
+---
 
+## 📊 Additional Information
 
-📊 Customer Purchase Behavior Analysis
+| Category              | Details                                  |
+| --------------------- | ---------------------------------------- |
+| Typing Speed          | 32+ WPM                                  |
+| Typing Accuracy       | 97%                                      |
+| Shift Availability    | Comfortable with rotational/night shifts |
+| English Communication | Strong written English                   |
+| Availability          | Immediate Joiner                         |
 
-A data analytics project focused on understanding customer purchasing behavior and identifying useful business trends.
+---
 
-Highlights:
+## 🎯 Career Interests
 
-Analyzed 10,000+ records
+Interested in opportunities involving:
 
-Identified customer purchasing trends and segments
+* Operations
+* Process Management
+* Data Analysis
+* Business Operations
+* Reporting & Documentation
+* Process Associate roles
+* Operations Executive roles
 
-Created an interactive Power BI dashboard
+---
 
-Improved reporting efficiency by 25% through improved visualization and dashboard design
+## 📌 Resume Highlights
 
-Supported data-driven business decision-making
+* B.Tech Computer Science & Engineering graduate
+* CGPA: **7.5/10**
+* Strong Microsoft Excel skills
+* Basic SQL and Python knowledge
+* Power BI dashboard experience
+* Experience analyzing **10,000+ records**
+* AI chatbot project using IBM Watson Assistant
+* Strong written and verbal communication
+* **97% typing accuracy**
+* Comfortable with rotational/night shifts
+* Immediate joiner
 
-🎓 Education
+---
 
-B.Tech — Computer Science & Engineering
-Vivekananda Global University, Jaipur
-2022 – 2026 | CGPA: 7.5 / 10
+## 🔎 Target Roles
 
-Relevant Coursework
+**Operations Executive | Process Associate | Data Analyst — Entry Level | Business Operations | Reporting & Documentation**
 
-Data Structures & Algorithms
-
-Databases
-
-Object-Oriented Programming
-
-Operating Systems
-
-Computer Networks
-
-Machine Learning
-
-Data Mining
-
-Image Processing
-
-Mathematics
-
-📜 Certifications
-
-PBEL Equivalent to Virtual Internship — AI — IBM
-
-Data Visualization — Coursera, University of Illinois
-
-Introduction to Data Analytics — Coursera
-
-Data Visualization and Dashboards with Excel and Cognos — Coursera
-
-📌 Career Focus
-
-I am currently focused on opportunities in:
-
-Operations Executive
-
-Operations Associate
-
-Process Associate
-
-Business Operations
-
-Data/Reporting Operations
-
-Entry-Level Data Analytics
-
-📈 Currently Strengthening
-
-Advanced Excel & reporting
-
-SQL
-
-Power BI
-
-Data analysis
-
-Business process understanding
-
-Professional communication
-
-📫 Contact
-
-Ayush Raj
-📧 ayushrajzeb@gmail.com
-📱 7050422869
-📍 New Ashok Nagar, New Delhi
-
-Open to opportunities where analytical skills, process discipline, communication, and technology can create measurable business value.
+> This repository contains the professional resume and career profile of **Ayush Raj**, highlighting his education, technical skills, projects, certifications, and career interests.
