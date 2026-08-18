@@ -1,4 +1,4 @@
-# Ayush Raj — Resume
+# Ayush Raj
 
 ## 👨‍💻 Professional Profile
 
