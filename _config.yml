@@ -1,6 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-tagline: [A very short description of your site's purpose, used as subtitle]
-description: [A short description of your site's purpose (e.g. for search engines)]
+title: Ayush Raj | Data Analyst Portfolio
+tagline: Data Analyst | SQL | Excel | Power BI | Python
+description: Data Analyst portfolio showcasing SQL, Microsoft Excel, Power BI, Python, data analysis, data visualization, dashboards, and business intelligence projects.
